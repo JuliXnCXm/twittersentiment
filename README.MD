@@ -1,6 +1,6 @@
 # twitter_sentiment_analysis
 
-By: rappi BI team.
+By: Julian Camilo Garcia
 
 Version: 0.1.0
 
@@ -43,4 +43,3 @@ activate twitter_sentiment_analysis
         └── README.md          <- The top-level README for developers using this project.
 
 ---
-Project created for demonstration purposes for the course "[Personalización Avanzada de Entorno para ciencia de Datos]()" by [Platzi](https://platzi.com/) - [@jvelezmagic](https://jvelezmagic.com/).
